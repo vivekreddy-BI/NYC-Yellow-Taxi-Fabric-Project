@@ -181,6 +181,9 @@ Built semantic model on top of dbo.nyctaxi_yellow
 
 Created Power BI dashboard with insights:
 
+<img width="705" height="442" alt="Report Screenshort" src="https://github.com/user-attachments/assets/50d29401-dbed-4fad-af67-a497f8e65641" />
+
+
 Key Insights:
 
 - Total Trips
